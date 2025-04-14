@@ -87,22 +87,22 @@ Prepared a professional presentation covering:
 **Presentation slides include visual charts, model comparison results, and summarization examples.**
 
 ---
+## 📌 Notes
 
+- This project was implemented and tested in **Google Colab** with **GPU**.
+- The **Streamlit app** was tested locally and can be deployed to **AWS EC2** or **Streamlit Community Cloud**.
+- Pre-trained models were sourced from **Hugging Face Transformers Hub**.
+
+---
 ## 📦 How to Run the Code  
 
 ### 1️⃣ Install Dependencies  
 ```bash
 pip install -r requirements.txt
+---
 
-### 2️⃣ Launch Streamlit App (Task 4)
+### 2️⃣ Launch Streamlit App
 ```bash
 streamlit run app.py
 
----
-## Notes
-- **All models were trained and tested on Google Colab (with GPU).**
-
-- **The deployed Streamlit app works both locally and can be hosted on AWS EC2 or Streamlit Cloud.**
-
-- **Pre-trained models were sourced from Hugging Face Transformers Hub.**
 
