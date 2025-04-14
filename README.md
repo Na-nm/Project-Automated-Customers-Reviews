@@ -6,7 +6,7 @@ The goal of this project is to analyze and process Amazon product reviews using 
 
 We also deployed an interactive web app using **Streamlit** for live classification, and delivered a final presentation summarizing our findings.
 
-** Dataset Title:**  
+** Consumer Reviews of Amazon Products:**  
 **Amazon Product Reviews**  
 [🔗 Dataset Link (Kaggle)](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products/data)
 
