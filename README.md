@@ -24,6 +24,7 @@ In this task, we classified customer reviews into **Positive**, **Negative**, or
     - `DeBERTa`
   - Evaluated their performance using precision, recall, and F1-score.
   - **Selected `DistilBERT` as the final model** due to its excellent accuracy of **99%** and fast inference time.
+  - [🔗 You can find the model in **Google Drive**](https://drive.google.com/drive/folders/1yhOuftLBrzEKzC8CiO1pVWhLmmvljaTx?usp=sharing) 
 
 **✅ Final Classification Accuracy:**  
 > **DistilBERT** achieved **99% accuracy** across the three sentiment categories.
